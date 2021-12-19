@@ -1,7 +1,7 @@
-package ro.vctr.twoDArray;
+package ro.vctr.twoDArrays;
 
 import java.util.Arrays;
-
+//Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 public class DiagonalTraverse {
 
     public static int[] findDiagonalOrder(int[][] mat) {
